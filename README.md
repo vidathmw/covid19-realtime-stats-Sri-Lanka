@@ -1,4 +1,4 @@
-# covid19
+# covid19 Patients Stats Sri Lanka
 
 ## Project setup
 ```
